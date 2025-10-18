@@ -66,7 +66,9 @@ The goal of this analysis is to identify accident trends, high-risk periods, and
 1. **Monthly Trend:** Accidents peaked in **June**, showing higher road activity during summer months.  
 2. **Hourly Trend:** **Midday hours** recorded the most collisions, likely due to driver fatigue and heavy traffic.  
 3. **High-Risk Locations:** **Belt Parkway** was identified as the top street for accidents.  
-4. **Contributing Factors:** **Driver inattention** and **unsafe speed** were the dominant causes, both behavioral.  
+4. **Contributing Factors:** **Driver inattention** and **unsafe speed** were the dominant causes, both behavioral.
+
+You can interact with the live visualization [HERE](https://app.powerbi.com/groups/me/reports/c38443c2-048a-4205-99ea-0f13713f6238/cbfe47e14ab5611d0809?experience=power-bi)
 
 ---
 
