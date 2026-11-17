@@ -68,8 +68,7 @@ The goal of this analysis is to identify accident trends, high-risk periods, and
 3. **High-Risk Locations:** **Belt Parkway** was identified as the top street for accidents.  
 4. **Contributing Factors:** **Driver inattention** and **unsafe speed** were the dominant causes, both behavioral.
 
-You can interact with the live visualization [HERE](https://app.powerbi.com/groups/me/reports/c38443c2-048a-4205-99ea-0f13713f6238/cbfe47e14ab5611d0809?experience=power-bi)
-
+Full report: [NYC Collisions Report (PDF)](CAPSTONE%20PROJECT%206%20%28NYC%20COALITION%29.pdf) · Power BI file: [NYC Collisions Analysis (.pbix)](CAPSTONE%20PROJECT%206%20%28NYC%20COALITION%29.pbix)
 ---
 
 ### ✅ Conclusion & Recommendations  
